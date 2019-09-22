@@ -1,0 +1,462 @@
+function_name,date,value
+Bathroom Door,2019-03-03,2
+Bathroom Door,2019-03-04,0
+Bathroom Door,2019-03-05,0
+Bathroom Door,2019-03-06,4
+Bathroom Door,2019-03-07,2
+Bathroom Door,2019-03-08,2
+Bathroom Door,2019-03-09,0
+Bathroom Door,2019-03-10,1
+Bathroom Door,2019-03-11,5
+Bathroom Door,2019-03-12,2
+Bathroom Door,2019-03-13,0
+Bathroom Door,2019-03-14,0
+Bathroom Door,2019-03-15,2
+Bathroom Door,2019-03-16,0
+Bathroom Door,2019-03-17,4
+Bathroom Door,2019-03-18,0
+Bathroom Door,2019-03-19,7
+Bathroom Door,2019-03-20,14
+Bathroom Door,2019-03-21,4
+Bathroom Door,2019-03-22,9
+Bathroom Door,2019-03-23,7
+Bathroom Door,2019-03-24,8
+Bathroom Door,2019-03-25,10
+Bathroom Door,2019-03-26,6
+Bathroom Door,2019-03-27,13
+Bathroom Door,2019-03-28,4
+Bathroom Door,2019-03-29,9
+Bathroom Door,2019-03-30,4
+Bathroom Door,2019-03-31,5
+Bathroom Illuminance,2019-03-01,24
+Bathroom Illuminance,2019-03-02,24
+Bathroom Illuminance,2019-03-03,24
+Bathroom Illuminance,2019-03-04,25
+Bathroom Illuminance,2019-03-05,24
+Bathroom Illuminance,2019-03-06,24
+Bathroom Illuminance,2019-03-07,24
+Bathroom Illuminance,2019-03-08,24
+Bathroom Illuminance,2019-03-09,24
+Bathroom Illuminance,2019-03-10,24
+Bathroom Illuminance,2019-03-11,24
+Bathroom Illuminance,2019-03-12,24
+Bathroom Illuminance,2019-03-13,24
+Bathroom Illuminance,2019-03-14,24
+Bathroom Illuminance,2019-03-15,24
+Bathroom Illuminance,2019-03-16,24
+Bathroom Illuminance,2019-03-17,24
+Bathroom Illuminance,2019-03-18,23
+Bathroom Illuminance,2019-03-19,24
+Bathroom Illuminance,2019-03-20,24
+Bathroom Illuminance,2019-03-21,24
+Bathroom Illuminance,2019-03-22,24
+Bathroom Illuminance,2019-03-23,24
+Bathroom Illuminance,2019-03-24,24
+Bathroom Illuminance,2019-03-25,24
+Bathroom Illuminance,2019-03-26,23
+Bathroom Illuminance,2019-03-27,24
+Bathroom Illuminance,2019-03-28,24
+Bathroom Illuminance,2019-03-29,24
+Bathroom Illuminance,2019-03-30,24
+Bathroom Illuminance,2019-03-31,23
+Bathroom Motion,2019-03-01,39
+Bathroom Motion,2019-03-02,26
+Bathroom Motion,2019-03-03,36
+Bathroom Motion,2019-03-04,50
+Bathroom Motion,2019-03-05,32
+Bathroom Motion,2019-03-06,30
+Bathroom Motion,2019-03-07,42
+Bathroom Motion,2019-03-08,46
+Bathroom Motion,2019-03-09,39
+Bathroom Motion,2019-03-10,43
+Bathroom Motion,2019-03-11,52
+Bathroom Motion,2019-03-12,40
+Bathroom Motion,2019-03-13,51
+Bathroom Motion,2019-03-14,28
+Bathroom Motion,2019-03-15,28
+Bathroom Motion,2019-03-16,32
+Bathroom Motion,2019-03-17,36
+Bathroom Motion,2019-03-18,43
+Bathroom Motion,2019-03-19,44
+Bathroom Motion,2019-03-20,51
+Bathroom Motion,2019-03-21,60
+Bathroom Motion,2019-03-22,68
+Bathroom Motion,2019-03-23,40
+Bathroom Motion,2019-03-24,30
+Bathroom Motion,2019-03-25,35
+Bathroom Motion,2019-03-26,38
+Bathroom Motion,2019-03-27,71
+Bathroom Motion,2019-03-28,41
+Bathroom Motion,2019-03-29,34
+Bathroom Motion,2019-03-30,38
+Bathroom Motion,2019-03-31,35
+Bed Lamp Power,2019-03-01,41
+Bed Lamp Power,2019-03-02,45
+Bed Lamp Power,2019-03-03,32
+Bed Lamp Power,2019-03-04,34
+Bed Lamp Power,2019-03-05,30
+Bed Lamp Power,2019-03-06,37
+Bed Lamp Power,2019-03-07,42
+Bed Lamp Power,2019-03-08,36
+Bed Lamp Power,2019-03-09,30
+Bed Lamp Power,2019-03-10,34
+Bed Lamp Power,2019-03-11,45
+Bed Lamp Power,2019-03-12,30
+Bed Lamp Power,2019-03-13,45
+Bed Lamp Power,2019-03-14,39
+Bed Lamp Power,2019-03-15,33
+Bed Lamp Power,2019-03-16,40
+Bed Lamp Power,2019-03-17,27
+Bed Lamp Power,2019-03-18,31
+Bed Lamp Power,2019-03-19,33
+Bed Lamp Power,2019-03-20,31
+Bed Lamp Power,2019-03-21,27
+Bed Lamp Power,2019-03-22,41
+Bed Lamp Power,2019-03-23,26
+Bed Lamp Power,2019-03-24,31
+Bed Lamp Power,2019-03-25,28
+Bed Lamp Power,2019-03-26,26
+Bed Lamp Power,2019-03-27,34
+Bed Lamp Power,2019-03-28,30
+Bed Lamp Power,2019-03-29,27
+Bed Lamp Power,2019-03-30,26
+Bed Lamp Power,2019-03-31,40
+Bedroom Illuminance,2019-03-01,24
+Bedroom Illuminance,2019-03-02,24
+Bedroom Illuminance,2019-03-03,24
+Bedroom Illuminance,2019-03-04,25
+Bedroom Illuminance,2019-03-05,25
+Bedroom Illuminance,2019-03-06,25
+Bedroom Illuminance,2019-03-07,24
+Bedroom Illuminance,2019-03-08,24
+Bedroom Illuminance,2019-03-09,24
+Bedroom Illuminance,2019-03-10,24
+Bedroom Illuminance,2019-03-11,24
+Bedroom Illuminance,2019-03-12,25
+Bedroom Illuminance,2019-03-13,24
+Bedroom Illuminance,2019-03-14,24
+Bedroom Illuminance,2019-03-15,24
+Bedroom Illuminance,2019-03-16,25
+Bedroom Illuminance,2019-03-17,24
+Bedroom Illuminance,2019-03-18,24
+Bedroom Illuminance,2019-03-19,24
+Bedroom Illuminance,2019-03-20,24
+Bedroom Illuminance,2019-03-21,24
+Bedroom Illuminance,2019-03-22,24
+Bedroom Illuminance,2019-03-23,24
+Bedroom Illuminance,2019-03-24,25
+Bedroom Illuminance,2019-03-25,29
+Bedroom Illuminance,2019-03-26,24
+Bedroom Illuminance,2019-03-27,24
+Bedroom Illuminance,2019-03-28,24
+Bedroom Illuminance,2019-03-29,28
+Bedroom Illuminance,2019-03-30,25
+Bedroom Illuminance,2019-03-31,24
+Bedroom Motion,2019-03-01,78
+Bedroom Motion,2019-03-02,55
+Bedroom Motion,2019-03-03,68
+Bedroom Motion,2019-03-04,83
+Bedroom Motion,2019-03-05,84
+Bedroom Motion,2019-03-06,73
+Bedroom Motion,2019-03-07,70
+Bedroom Motion,2019-03-08,146
+Bedroom Motion,2019-03-09,68
+Bedroom Motion,2019-03-10,59
+Bedroom Motion,2019-03-11,124
+Bedroom Motion,2019-03-12,66
+Bedroom Motion,2019-03-13,100
+Bedroom Motion,2019-03-14,93
+Bedroom Motion,2019-03-15,92
+Bedroom Motion,2019-03-16,82
+Bedroom Motion,2019-03-17,93
+Bedroom Motion,2019-03-18,67
+Bedroom Motion,2019-03-19,183
+Bedroom Motion,2019-03-20,98
+Bedroom Motion,2019-03-21,84
+Bedroom Motion,2019-03-22,104
+Bedroom Motion,2019-03-23,77
+Bedroom Motion,2019-03-24,45
+Bedroom Motion,2019-03-25,76
+Bedroom Motion,2019-03-26,103
+Bedroom Motion,2019-03-27,141
+Bedroom Motion,2019-03-28,102
+Bedroom Motion,2019-03-29,88
+Bedroom Motion,2019-03-30,63
+Bedroom Motion,2019-03-31,82
+Entry Door,2019-03-01,8
+Entry Door,2019-03-02,8
+Entry Door,2019-03-03,22
+Entry Door,2019-03-04,4
+Entry Door,2019-03-05,24
+Entry Door,2019-03-06,0
+Entry Door,2019-03-07,8
+Entry Door,2019-03-08,14
+Entry Door,2019-03-09,0
+Entry Door,2019-03-10,0
+Entry Door,2019-03-11,10
+Entry Door,2019-03-12,4
+Entry Door,2019-03-13,6
+Entry Door,2019-03-14,4
+Entry Door,2019-03-15,2
+Entry Door,2019-03-16,0
+Entry Door,2019-03-17,4
+Entry Door,2019-03-18,0
+Entry Door,2019-03-19,34
+Entry Door,2019-03-20,21
+Entry Door,2019-03-21,18
+Entry Door,2019-03-22,12
+Entry Door,2019-03-23,4
+Entry Door,2019-03-24,4
+Entry Door,2019-03-25,14
+Entry Door,2019-03-26,12
+Entry Door,2019-03-27,24
+Entry Door,2019-03-28,12
+Entry Door,2019-03-29,12
+Entry Door,2019-03-30,12
+Entry Door,2019-03-31,8
+Hot Water Kettle Kitchen Power,2019-03-01,40
+Hot Water Kettle Kitchen Power,2019-03-02,35
+Hot Water Kettle Kitchen Power,2019-03-03,57
+Hot Water Kettle Kitchen Power,2019-03-04,38
+Hot Water Kettle Kitchen Power,2019-03-05,35
+Hot Water Kettle Kitchen Power,2019-03-06,34
+Hot Water Kettle Kitchen Power,2019-03-07,37
+Hot Water Kettle Kitchen Power,2019-03-08,34
+Hot Water Kettle Kitchen Power,2019-03-09,35
+Hot Water Kettle Kitchen Power,2019-03-10,31
+Hot Water Kettle Kitchen Power,2019-03-11,38
+Hot Water Kettle Kitchen Power,2019-03-12,37
+Hot Water Kettle Kitchen Power,2019-03-13,39
+Hot Water Kettle Kitchen Power,2019-03-14,27
+Hot Water Kettle Kitchen Power,2019-03-15,31
+Hot Water Kettle Kitchen Power,2019-03-16,39
+Hot Water Kettle Kitchen Power,2019-03-17,34
+Hot Water Kettle Kitchen Power,2019-03-18,35
+Hot Water Kettle Kitchen Power,2019-03-19,34
+Hot Water Kettle Kitchen Power,2019-03-20,37
+Hot Water Kettle Kitchen Power,2019-03-21,41
+Hot Water Kettle Kitchen Power,2019-03-22,42
+Hot Water Kettle Kitchen Power,2019-03-23,35
+Hot Water Kettle Kitchen Power,2019-03-24,38
+Hot Water Kettle Kitchen Power,2019-03-25,38
+Hot Water Kettle Kitchen Power,2019-03-26,33
+Hot Water Kettle Kitchen Power,2019-03-27,31
+Hot Water Kettle Kitchen Power,2019-03-28,31
+Hot Water Kettle Kitchen Power,2019-03-29,37
+Hot Water Kettle Kitchen Power,2019-03-30,28
+Hot Water Kettle Kitchen Power,2019-03-31,31
+Kitchen Illuminance,2019-03-01,24
+Kitchen Illuminance,2019-03-02,24
+Kitchen Illuminance,2019-03-03,24
+Kitchen Illuminance,2019-03-04,25
+Kitchen Illuminance,2019-03-05,25
+Kitchen Illuminance,2019-03-06,24
+Kitchen Illuminance,2019-03-07,25
+Kitchen Illuminance,2019-03-08,25
+Kitchen Illuminance,2019-03-09,25
+Kitchen Illuminance,2019-03-10,24
+Kitchen Illuminance,2019-03-11,24
+Kitchen Illuminance,2019-03-12,25
+Kitchen Illuminance,2019-03-13,24
+Kitchen Illuminance,2019-03-14,24
+Kitchen Illuminance,2019-03-15,25
+Kitchen Illuminance,2019-03-16,24
+Kitchen Illuminance,2019-03-17,24
+Kitchen Illuminance,2019-03-18,24
+Kitchen Illuminance,2019-03-19,26
+Kitchen Illuminance,2019-03-20,24
+Kitchen Illuminance,2019-03-21,29
+Kitchen Illuminance,2019-03-22,25
+Kitchen Illuminance,2019-03-23,28
+Kitchen Illuminance,2019-03-24,26
+Kitchen Illuminance,2019-03-25,32
+Kitchen Illuminance,2019-03-26,26
+Kitchen Illuminance,2019-03-27,24
+Kitchen Illuminance,2019-03-28,24
+Kitchen Illuminance,2019-03-29,43
+Kitchen Illuminance,2019-03-30,30
+Kitchen Illuminance,2019-03-31,27
+Kitchen Motion,2019-03-01,141
+Kitchen Motion,2019-03-02,115
+Kitchen Motion,2019-03-03,215
+Kitchen Motion,2019-03-04,155
+Kitchen Motion,2019-03-05,198
+Kitchen Motion,2019-03-06,120
+Kitchen Motion,2019-03-07,177
+Kitchen Motion,2019-03-08,258
+Kitchen Motion,2019-03-09,108
+Kitchen Motion,2019-03-10,120
+Kitchen Motion,2019-03-11,210
+Kitchen Motion,2019-03-12,150
+Kitchen Motion,2019-03-13,88
+Kitchen Motion,2019-03-14,124
+Kitchen Motion,2019-03-15,130
+Kitchen Motion,2019-03-16,171
+Kitchen Motion,2019-03-17,138
+Kitchen Motion,2019-03-18,143
+Kitchen Motion,2019-03-19,210
+Kitchen Motion,2019-03-20,206
+Kitchen Motion,2019-03-21,155
+Kitchen Motion,2019-03-22,126
+Kitchen Motion,2019-03-23,100
+Kitchen Motion,2019-03-24,112
+Kitchen Motion,2019-03-25,115
+Kitchen Motion,2019-03-26,153
+Kitchen Motion,2019-03-27,164
+Kitchen Motion,2019-03-28,153
+Kitchen Motion,2019-03-29,158
+Kitchen Motion,2019-03-30,117
+Kitchen Motion,2019-03-31,116
+Lounge Illuminance,2019-03-01,25
+Lounge Illuminance,2019-03-02,24
+Lounge Illuminance,2019-03-03,26
+Lounge Illuminance,2019-03-04,26
+Lounge Illuminance,2019-03-05,25
+Lounge Illuminance,2019-03-06,27
+Lounge Illuminance,2019-03-07,24
+Lounge Illuminance,2019-03-08,24
+Lounge Illuminance,2019-03-09,24
+Lounge Illuminance,2019-03-10,24
+Lounge Illuminance,2019-03-11,24
+Lounge Illuminance,2019-03-12,24
+Lounge Illuminance,2019-03-13,24
+Lounge Illuminance,2019-03-14,24
+Lounge Illuminance,2019-03-15,24
+Lounge Illuminance,2019-03-16,24
+Lounge Illuminance,2019-03-17,24
+Lounge Illuminance,2019-03-18,24
+Lounge Illuminance,2019-03-19,24
+Lounge Illuminance,2019-03-20,24
+Lounge Illuminance,2019-03-21,24
+Lounge Illuminance,2019-03-22,24
+Lounge Illuminance,2019-03-23,24
+Lounge Illuminance,2019-03-24,24
+Lounge Illuminance,2019-03-25,24
+Lounge Illuminance,2019-03-26,24
+Lounge Illuminance,2019-03-27,24
+Lounge Illuminance,2019-03-28,24
+Lounge Illuminance,2019-03-29,24
+Lounge Illuminance,2019-03-30,24
+Lounge Illuminance,2019-03-31,23
+Lounge Motion,2019-03-01,48
+Lounge Motion,2019-03-02,24
+Lounge Motion,2019-03-03,157
+Lounge Motion,2019-03-04,24
+Lounge Motion,2019-03-05,18
+Lounge Motion,2019-03-06,19
+Lounge Motion,2019-03-07,10
+Lounge Motion,2019-03-08,100
+Lounge Motion,2019-03-09,14
+Lounge Motion,2019-03-10,18
+Lounge Motion,2019-03-11,32
+Lounge Motion,2019-03-12,20
+Lounge Motion,2019-03-13,2
+Lounge Motion,2019-03-14,2
+Lounge Motion,2019-03-15,12
+Lounge Motion,2019-03-16,24
+Lounge Motion,2019-03-17,22
+Lounge Motion,2019-03-18,8
+Lounge Motion,2019-03-19,44
+Lounge Motion,2019-03-20,20
+Lounge Motion,2019-03-21,10
+Lounge Motion,2019-03-22,14
+Lounge Motion,2019-03-23,8
+Lounge Motion,2019-03-24,6
+Lounge Motion,2019-03-25,8
+Lounge Motion,2019-03-26,2
+Lounge Motion,2019-03-27,10
+Lounge Motion,2019-03-28,10
+Lounge Motion,2019-03-29,22
+Lounge Motion,2019-03-30,10
+Lounge Motion,2019-03-31,4
+TV Lounge Power,2019-03-01,1622
+TV Lounge Power,2019-03-02,2138
+TV Lounge Power,2019-03-03,2250
+TV Lounge Power,2019-03-04,1462
+TV Lounge Power,2019-03-05,1082
+TV Lounge Power,2019-03-06,1457
+TV Lounge Power,2019-03-07,1770
+TV Lounge Power,2019-03-08,1309
+TV Lounge Power,2019-03-09,2093
+TV Lounge Power,2019-03-10,2909
+TV Lounge Power,2019-03-11,1395
+TV Lounge Power,2019-03-12,2338
+TV Lounge Power,2019-03-13,1345
+TV Lounge Power,2019-03-14,1218
+TV Lounge Power,2019-03-15,1339
+TV Lounge Power,2019-03-16,1957
+TV Lounge Power,2019-03-17,1826
+TV Lounge Power,2019-03-18,1175
+TV Lounge Power,2019-03-19,483
+TV Lounge Power,2019-03-20,1351
+TV Lounge Power,2019-03-21,1156
+TV Lounge Power,2019-03-22,845
+TV Lounge Power,2019-03-23,1421
+TV Lounge Power,2019-03-24,1267
+TV Lounge Power,2019-03-25,1336
+TV Lounge Power,2019-03-26,867
+TV Lounge Power,2019-03-27,992
+TV Lounge Power,2019-03-28,979
+TV Lounge Power,2019-03-29,1199
+TV Lounge Power,2019-03-30,1845
+TV Lounge Power,2019-03-31,846
+battery,2019-03-01,6
+battery,2019-03-02,6
+battery,2019-03-03,6
+battery,2019-03-04,6
+battery,2019-03-05,6
+battery,2019-03-06,6
+battery,2019-03-07,6
+battery,2019-03-08,6
+battery,2019-03-09,6
+battery,2019-03-10,6
+battery,2019-03-11,6
+battery,2019-03-12,6
+battery,2019-03-13,7
+battery,2019-03-14,6
+battery,2019-03-15,6
+battery,2019-03-16,6
+battery,2019-03-17,7
+battery,2019-03-18,6
+battery,2019-03-19,6
+battery,2019-03-20,6
+battery,2019-03-21,6
+battery,2019-03-22,6
+battery,2019-03-23,6
+battery,2019-03-24,6
+battery,2019-03-25,6
+battery,2019-03-26,6
+battery,2019-03-27,6
+battery,2019-03-28,6
+battery,2019-03-29,6
+battery,2019-03-30,6
+battery,2019-03-31,6
+temp,2019-03-03,1
+temp,2019-03-04,1
+temp,2019-03-05,0
+temp,2019-03-06,0
+temp,2019-03-07,0
+temp,2019-03-08,0
+temp,2019-03-09,0
+temp,2019-03-10,0
+temp,2019-03-11,1
+temp,2019-03-12,3
+temp,2019-03-13,0
+temp,2019-03-14,1
+temp,2019-03-15,1
+temp,2019-03-16,0
+temp,2019-03-17,0
+temp,2019-03-18,0
+temp,2019-03-19,2
+temp,2019-03-20,1
+temp,2019-03-21,1
+temp,2019-03-22,2
+temp,2019-03-23,2
+temp,2019-03-24,2
+temp,2019-03-25,0
+temp,2019-03-26,3
+temp,2019-03-27,1
+temp,2019-03-28,2
+temp,2019-03-29,2
+temp,2019-03-30,1
+temp,2019-03-31,4
